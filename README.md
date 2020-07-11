@@ -1,8 +1,5 @@
-# Angular 6 Learning 
+# User Posts with Routing using Angular 6 Demo Link:https://userpostsdashboard-angular.netlify.app/
 
-Angular 6 crash course click <a href="https://coursetro.com/posts/code/154/Angular-6-Tutorial---Learn-Angular-6-in-this-Crash-Course">here</a>
-
-Login and Router <a href="https://medium.com/@ozgurgul/angular-6-login-and-router-tutorial-ac5fc5d3027f">here</a>
 
 ## Prerequisites
 
