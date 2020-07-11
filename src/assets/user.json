@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "name": "kartik shirke",
+  "username": "Kartik",
+  "email": "kartikdeepakshirke@gmail.com",
+  "address": {
+    "street": "307 Harrison Ave",
+    "suite": "3",
+    "city": "Harrison",
+    "zipcode": "07029",
+    "geo": { 
+      "lat": "40.746160",
+      "lng": "-74.157737"
+    }
+  },
+  "phone": "+17325899485",
+  "website": "https://kartikshirke.github.io/portfolio/",
+  "company": {
+    "name": "Not avaiable",
+    "catchPhrase": "Front-end developer",
+    "bs": "ui front-end"
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "kartik shirke",
+    "username": "Kartik",
+    "email": "kartikdeepakshirke@gmail.com",
+    "address": {
+      "street": "307 Harrison Ave",
+      "suite": "3",
+      "city": "Harrison",
+      "zipcode": "07029",
+      "geo": { 
+        "lat": "40.746160",
+        "lng": "-74.157737"
+      }
+    },
+    "phone": "+17325899485",
+    "website": "https://kartikshirke.github.io/portfolio/",
+    "company": {
+      "name": "Not avaiable",
+      "catchPhrase": "Front-end developer",
+      "bs": "ui front-end"
+    }
+  }
+  {
+    "id": 2,
+    "name": "John Doe",
+    "username": "JohnD",
+    "email": "john.doe@outlook.pt",
+    "address": {
+      "street": "Same where in the world",
+      "suite": "1",
+      "city": "World",
+      "zipcode": "0000-000",
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1496"
+      }
+    },
+    "phone": "+351 000 000 000",
+    "website": "google.com",
+    "company": {
+      "name": "Not avaiable",
+      "catchPhrase": "Not avaiable",
+      "bs": "not avaiable"
+    }
+  }
+]
